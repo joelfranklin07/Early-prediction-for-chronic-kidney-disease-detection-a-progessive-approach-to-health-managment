@@ -1,8 +1,8 @@
 # Early-prediction-for-chronic-kidney-disease-detection-a-progessive-approach-to-health-managment
-Team Leader
+Team Leader:
 Joel Franklin
 
-Team Members
+Team Members:
 1)dhinesh.S
 2)dhanush.R
 3)Anwar.A
